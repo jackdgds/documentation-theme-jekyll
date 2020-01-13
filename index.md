@@ -1,5 +1,5 @@
 ---
-title: "Getting started with the Receptiviti API"
+title: "Getting started with the Jekyll Documentation Theme"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
