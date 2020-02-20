@@ -26,9 +26,9 @@ console.log('hello');
 
 For the list of supported languages you can use (similar to `js` for JavaScript), see [Supported languages](https://github.com/jneen/rouge/wiki/list-of-supported-languages-and-lexers).
 
-```python
-import requests
-def get_liwc_scores(text, api_secret_key, api_key):
+```
+    import requests
+    def get_liwc_scores(text, api_secret_key, api_key):
     text = text.encode('ascii', 'ignore').decode('utf-8')
     text_repl = text.replace('"', r'\"')
     url = 'https://api-v3.receptiviti.com/v3/api/content'
