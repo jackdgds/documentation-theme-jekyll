@@ -1,5 +1,5 @@
 ---
-title: Release notes 6.0
+title: Release notes 6.00
 tags: [getting_started]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
