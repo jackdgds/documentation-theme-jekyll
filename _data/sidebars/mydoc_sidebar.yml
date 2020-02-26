@@ -19,11 +19,11 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overviewz
+  - title: Overview
     output: web, pdf
     folderitems:
 
-    - title: Get shtarted 
+    - title: Get started 
       url: /index.html
       output: web, pdf
       type: homepage
