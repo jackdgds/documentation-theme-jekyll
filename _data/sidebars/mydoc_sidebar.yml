@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Overviewz
     output: web, pdf
     folderitems:
 
